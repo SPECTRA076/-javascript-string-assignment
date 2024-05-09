@@ -1,1 +1,1 @@
-# -javascript-string-assignment
+# javascript-string-assignment
